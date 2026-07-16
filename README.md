@@ -1,12 +1,12 @@
-# 👟 Adidas Sales Data Analysis Dashboard
+# 👟 Adidas Sales Performance Dashboard
 
 > A data analytics capstone project analyzing Adidas sales performance across products, retailers, regions, and sales channels using Microsoft Excel.
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+📄 **Report:** [Strategic Recommendations Report](Report/Adidas_Sales_report.pdf)
 ---
 
 ## 📖 Project Overview
@@ -19,17 +19,17 @@ Using **Microsoft Excel**, I cleaned the dataset, built pivot tables, calculated
 
 ## 🎯 Objectives
 
-- Measure overall sales performance and profitability.
-- Identify top-performing products.
-- Compare sales across regions.
-- Evaluate retailer performance.
-- Analyze sales channels.
-- Identify business growth opportunities.
-- Provide strategic business recommendations.
+-Measure overall sales and profitability performance during the period.
+-Identify top-performing and underperforming product categories, regions, and sales channels.
+-Compare sales contributions of major retail partners (Foot Locker, Walmart, Sports Direct).
+-Assess the effectiveness of different sales methods (in-store vs. outlet vs. online).
+-Provide actionable recommendations to optimize future sales campaigns and promotions.
+
 
 ---
 
 ## 📊 Dataset Information
+**Dataset:** [Adidas Sales Data](Dataset/Adidas_dataset.xlsx)
 
 The dataset contains Adidas sales transactions with the following attributes:
 
@@ -97,28 +97,34 @@ The interactive dashboard includes:
 
 ## 🔍 Key Insights
 
-### 👟 Product Performance
+### 👟 Product Category A nalysis
+<img width="781" height="372" alt="image" src="https://github.com/user-attachments/assets/7ee8cc20-8c55-437e-84c9-2bbdb122a05e" />
+
 
 - Footwear generated the highest sales revenue.
 - Footwear remains Adidas' strongest product category.
 
 ### 🌎 Regional Analysis
+<img width="787" height="353" alt="image" src="https://github.com/user-attachments/assets/e908f469-ae6f-4d84-b991-0f5542866d97" />
 
 - The **West Region** recorded the highest sales.
 - Some regions present opportunities for targeted marketing.
 
 ### 🤝 Retailer Performance
+<img width="748" height="380" alt="image" src="https://github.com/user-attachments/assets/b294b253-467c-4459-bce2-bf3558279e73" />
 
 - **West Gear** was the highest-performing retailer.
 - Retailer profitability varies significantly.
 
 ### 🛒 Sales Channels
+<img width="750" height="408" alt="image" src="https://github.com/user-attachments/assets/23fc88d0-83d2-4c65-a19a-e9e8b4c9df42" />
 
 - In-store sales generated the highest revenue.
 - Online sales demonstrate strong growth potential.
 - Outlet sales contributed the least revenue.
 
 ### 📈 Sales Trend
+<img width="848" height="444" alt="image" src="https://github.com/user-attachments/assets/e8a414c4-05a3-4e6e-b457-edce14f080c1" />
 
 Sales revenue showed a consistent upward trend throughout the analysis period, indicating increasing customer demand and sustained business growth.
 
@@ -164,19 +170,16 @@ Sales revenue showed a consistent upward trend throughout the analysis period, i
 Adidas-Sales-Analysis/
 │
 ├── Dataset/
-│   └── Adidas Sales.xlsx
+│   └── Adidas_dataset.xlsx
 │
 ├── Dashboard/
-│   └── Adidas Dashboard.xlsx
+│   └── Adidas_Sales.xlsx
 │
 ├── Images/
 │   ├── dashboard.png
-│   ├── products.png
-│   ├── regions.png
-│   └── trend.png
 │
 ├── Report/
-│   └── Strategic Recommendations Report.pdf
+│   └── Adidas_Sales_report.pdf
 │
 └── README.md
 ```
@@ -185,7 +188,9 @@ Adidas-Sales-Analysis/
 
 ## 📷 Dashboard Preview
 
-> *(Replace this image with your dashboard screenshot.)*
+> *<img width="1005" height="841" alt="dashboard" src="https://github.com/user-attachments/assets/1b6e1e5d-8bca-4383-8203-1ed0df8905cd" />
+*
+-Live Demo(https://1drv.ms/x/c/5E766A4F9499C1F2/AZL455UFJhRAvHRj5UwFeOg?e=DJMv2k)
 
 ![Dashboard](Images/dashboard.png)
 
@@ -228,7 +233,7 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 
 **GitHub**
 
-https://github.com/yourusername
+https://github.com/darus045
 
 ---
 
