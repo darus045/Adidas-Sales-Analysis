@@ -19,11 +19,11 @@ Using **Microsoft Excel**, I cleaned the dataset, built pivot tables, calculated
 
 ## 🎯 Objectives
 
--Measure overall sales and profitability performance during the period.
--Identify top-performing and underperforming product categories, regions, and sales channels.
--Compare sales contributions of major retail partners (Foot Locker, Walmart, Sports Direct).
--Assess the effectiveness of different sales methods (in-store vs. outlet vs. online).
--Provide actionable recommendations to optimize future sales campaigns and promotions.
+- Measure overall sales and profitability performance during the period.
+- Identify top-performing and underperforming product categories, regions, and sales channels.
+- Compare sales contributions of major retail partners (Foot Locker, Walmart, Sports Direct).
+- Assess the effectiveness of different sales methods (in-store vs. outlet vs. online).
+- Provide actionable recommendations to optimize future sales campaigns and promotions.
 
 
 ---
@@ -126,7 +126,7 @@ The interactive dashboard includes:
 ### 📈 Sales Trend
 <img width="848" height="444" alt="image" src="https://github.com/user-attachments/assets/e8a414c4-05a3-4e6e-b457-edce14f080c1" />
 
-Sales revenue showed a consistent upward trend throughout the analysis period, indicating increasing customer demand and sustained business growth.
+- Sales revenue showed a consistent upward trend throughout the analysis period, indicating increasing customer demand and sustained business growth.
 
 ---
 
@@ -190,9 +190,9 @@ Adidas-Sales-Analysis/
 
 > *<img width="1005" height="841" alt="dashboard" src="https://github.com/user-attachments/assets/1b6e1e5d-8bca-4383-8203-1ed0df8905cd" />
 *
--Live Demo(https://1drv.ms/x/c/5E766A4F9499C1F2/AZL455UFJhRAvHRj5UwFeOg?e=DJMv2k)
+- Live Demo(https://1drv.ms/x/c/5E766A4F9499C1F2/AZL455UFJhRAvHRj5UwFeOg?e=DJMv2k)
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](Image/dashboard.png)
 
 ---
 
