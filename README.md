@@ -188,11 +188,11 @@ Adidas-Sales-Analysis/
 
 ## 📷 Dashboard Preview
 
-> *<img width="1005" height="841" alt="dashboard" src="https://github.com/user-attachments/assets/1b6e1e5d-8bca-4383-8203-1ed0df8905cd" />
-*
+![Dashboard](Image/dashboard.png)
+
 - Live Demo(https://1drv.ms/x/c/5E766A4F9499C1F2/AZL455UFJhRAvHRj5UwFeOg?e=DJMv2k)
 
-![Dashboard](Image/dashboard.png)
+
 
 ---
 
